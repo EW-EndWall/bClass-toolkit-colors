@@ -4,9 +4,7 @@
   </a>
 
   <h3 align="center">
-    bClass
-    <br/>
-    toolkit
+    bClass toolkit
     <br/>
     colors
   </h3>
