@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bClass.bik.run/">
-    <img src="./icon/bClass color-generator.svg" alt="Logo" width="220" height="auto">
+    <img src="./icon/bClass colors.svg" alt="Logo" width="220" height="auto">
   </a>
 
   <h3 align="center">
@@ -8,7 +8,7 @@
     <br/>
     toolkit
     <br/>
-    color generator
+    colors
   </h3>
 </p>
 
